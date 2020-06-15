@@ -11,8 +11,7 @@ pipeline {
 
       stage('check-sec') {
          steps {
-           sh "pip3 install truffleHog"
-            sh "truffleHog --regex --entropy=False https://github.com/CyberSecTmken/TEST.git"
+            sh "python3 /home/adminme/Downloads/truffleHog-dev/truffleHog/truffleHog.py --regex --entropy=False https://github.com/CyberSecTmken/TEST.git"
          }
       }
    
