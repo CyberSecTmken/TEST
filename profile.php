@@ -1,6 +1,4 @@
 <?php
 echo "aa"; 
-echo "test";
-$tokenx="12345678901234567890123456789012345678112";
-
+echo "testme";
 ?>
