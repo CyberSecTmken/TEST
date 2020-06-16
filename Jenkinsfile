@@ -18,8 +18,8 @@ pipeline {
            stage('zap') {
             steps {
                 script {
-                    startZap(host: "127.0.0.1", port: 9091, timeout:500, zapHome: "/snap/zaproxy/current", allowedHosts:['tamkeentech.sa']) // Start ZAP at /opt/zaproxy/zap.sh, allowing scans on github.com (if allowedHosts is not provided, any local addresses will be used
-                   runZapCrawler(host: "https://tamkeentech.sa")
+                    startZap(host: "127.0.0.1", port: 9091, timeout:500, zapHome: "/snap/zaproxy/current", allowedHosts:['example.com']) // Start ZAP at /opt/zaproxy/zap.sh, allowing scans on github.com (if allowedHosts is not provided, any local addresses will be used
+                   runZapCrawler(host: "http://example.com")
                    runZapAttack()
                     archiveZap(failHighAlerts: 1, failMediumAlerts: 1, failLowAlerts: 0)
                 }
