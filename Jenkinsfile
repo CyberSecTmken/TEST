@@ -26,15 +26,11 @@ pipeline {
             }
         }
       
-      stage ('OWASP Dependency-Check Vulnerabilities') {
+      stage ('owaspchecker') {
             steps {
-                dependencyCheck additionalArguments: ''' 
-                    -o "./" 
-                    -s "./"
-                    -f "ALL" 
-                    --prettyPrint''', odcInstallation: 'OWASP-DC'
-
-                dependencyCheckPublisher pattern: 'dependency-check-report.xml'
+               sh "wget 'https://raw.githubusercontent.com/CyberSecTmken/TEST/master/owaspchecker.sh'"
+               sh 'chmod -x owaspchecker.sh'
+               sh 'bash owaspchecker.sh'
             }
         }  
    
