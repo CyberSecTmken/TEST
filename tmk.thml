@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://tamkeentech.sa/sites/default/files/favicon.png" type="image/png" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://tamkeentech.sa/" />
+<link rel="shortlink" href="https://tamkeentech.sa/" />
+<meta property="og:site_name" content="Tamkeen Technologies" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://tamkeentech.sa/" />
+<meta property="og:title" content="Tamkeen Technologies" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://tamkeentech.sa/" />
+<meta name="twitter:title" content="Tamkeen Technologies" />
+  <title>Tamkeen Technologies |</title>
+  <style type="text/css" media="all">
+@import url("https://tamkeentech.sa/modules/system/system.base.css?qbqcdq");
+@import url("https://tamkeentech.sa/modules/system/system.menus.css?qbqcdq");
+@import url("https://tamkeentech.sa/modules/system/system.messages.css?qbqcdq");
+@import url("https://tamkeentech.sa/modules/system/system.theme.css?qbqcdq");
+</style>
+<style type="text/css" media="all">
+@import url("https://tamkeentech.sa/modules/comment/comment.css?qbqcdq");
+@import url("https://tamkeentech.sa/sites/all/modules/contrib/date/date_api/date.css?qbqcdq");
+@import url("https://tamkeentech.sa/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?qbqcdq");
+@import url("https://tamkeentech.sa/sites/all/modules/contrib/date/date_repeat_field/date_repeat_field.css?qbqcdq");
+@import url("https://tamkeentech.sa/modules/field/theme/field.css?qbqcdq");
+@import url("https://tamkeentech.sa/modules/node/node.css?qbqcdq");
+@import url("https://tamkeentech.sa/modules/search/search.css?qbqcdq");
+@import url("https://tamkeentech.sa/modules/user/user.css?qbqcdq");
+@import url("https://tamkeentech.sa/sites/all/modules/contrib/views/css/views.css?qbqcdq");
+@import url("https://tamkeentech.sa/sites/all/modules/contrib/ckeditor/css/ckeditor.css?qbqcdq");
+</style>
+<style type="text/css" media="all">
+@import url("https://tamkeentech.sa/sites/all/themes/basic/css/tabs.css?qbqcdq");
+@import url("https://tamkeentech.sa/sites/all/modules/contrib/ctools/css/ctools.css?qbqcdq");
+@import url("https://tamkeentech.sa/modules/locale/locale.css?qbqcdq");
+</style>
+<style type="text/css" media="all">
+@import url("https://tamkeentech.sa/sites/all/themes/tamkeen/css/style.css?qbqcdq");
+@import url("https://tamkeentech.sa/sites/all/themes/tamkeen/js/slick/slick.css?qbqcdq");
+@import url("https://tamkeentech.sa/sites/all/themes/tamkeen/js/slick/slick-theme.css?qbqcdq");
+</style>
+  <script type="text/javascript" src="https://tamkeentech.sa/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://tamkeentech.sa/misc/jquery-extend-3.4.0.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://tamkeentech.sa/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://tamkeentech.sa/misc/drupal.js?qbqcdq"></script>
+<script type="text/javascript" src="https://tamkeentech.sa/sites/all/modules/contrib/google_analytics/googleanalytics.js?qbqcdq"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-70470514-3", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://tamkeentech.sa/sites/all/themes/basic/js/build/scripts.js?qbqcdq"></script>
+<script type="text/javascript" src="https://tamkeentech.sa/sites/all/themes/basic/js/build/modernizr.js?qbqcdq"></script>
+<script type="text/javascript" src="https://tamkeentech.sa/sites/all/themes/tamkeen/js/jquery-1.11.1.min.js?qbqcdq"></script>
+<script type="text/javascript" src="https://tamkeentech.sa/sites/all/themes/tamkeen/js/TweenMax.min.js?qbqcdq"></script>
+<script type="text/javascript" src="https://tamkeentech.sa/sites/all/themes/tamkeen/js/TweenLite.min.js?qbqcdq"></script>
+<script type="text/javascript" src="https://tamkeentech.sa/sites/all/themes/tamkeen/js/jquery.waypoints.min.js?qbqcdq"></script>
+<script type="text/javascript" src="https://tamkeentech.sa/sites/all/themes/tamkeen/js/inview.min.js?qbqcdq"></script>
+<script type="text/javascript" src="https://tamkeentech.sa/sites/all/themes/tamkeen/js/slick/slick.js?qbqcdq"></script>
+<script type="text/javascript" src="https://tamkeentech.sa/sites/all/themes/tamkeen/js/jquery.scrollify.js?qbqcdq"></script>
+<script type="text/javascript" src="https://tamkeentech.sa/sites/all/themes/tamkeen/js/script.js?qbqcdq"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"tamkeen","theme_token":"2d51DRqvOXHJ1cbIAM3CqQG8WWXqqZJIPFLyoJDKqPs","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/basic\/js\/build\/scripts.js":1,"sites\/all\/themes\/basic\/js\/build\/modernizr.js":1,"sites\/all\/themes\/tamkeen\/js\/jquery-1.11.1.min.js":1,"sites\/all\/themes\/tamkeen\/js\/TweenMax.min.js":1,"sites\/all\/themes\/tamkeen\/js\/TweenLite.min.js":1,"sites\/all\/themes\/tamkeen\/js\/jquery.waypoints.min.js":1,"sites\/all\/themes\/tamkeen\/js\/inview.min.js":1,"sites\/all\/themes\/tamkeen\/js\/slick\/slick.js":1,"sites\/all\/themes\/tamkeen\/js\/jquery.scrollify.js":1,"sites\/all\/themes\/tamkeen\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/themes\/basic\/css\/tabs.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"modules\/locale\/locale.css":1,"sites\/all\/themes\/tamkeen\/css\/normalize.css":1,"sites\/all\/themes\/tamkeen\/css\/default.css":1,"sites\/all\/themes\/tamkeen\/css\/layout.css":1,"sites\/all\/themes\/tamkeen\/css\/style.css":1,"sites\/all\/themes\/tamkeen\/js\/slick\/slick.css":1,"sites\/all\/themes\/tamkeen\/js\/slick\/slick-theme.css":1,"sites\/all\/themes\/tamkeen\/css\/print.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+//--><!]]>
+</script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+  <!--<script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyANhaZ8tFqasYRq1agmehzSlORgNxmcIFs" type="text/javascript"></script>-->
+  <script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAKhHV3dUa1NLzApd_YthTQGa-nQv1Q8Ik" type="text/javascript"></script>
+
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-1000 node-type-home-page i18n-en role-anonymous-user" >
+
+    <div class="" id="fullpage">
+<div id="page" class="page with-navigation">
+
+  <!-- ______________________ HEADER _______________________ -->
+
+  <header id="header">
+    <div class="container">
+
+        <div class="logo">
+          <a href="/" title="Tamkeen Technologies" rel="home" id="logo">
+
+                          <img class="logo-black" src="https://tamkeentech.sa/sites/all/themes/tamkeen/images/logo.svg" alt="Tamkeen Technologies"/>
+              <img class="logo-white" src="https://tamkeentech.sa/sites/all/themes/tamkeen/images/logo-white.svg" alt="Tamkeen Technologies"/>
+                      
+          </a>
+        </div>
+
+        <div class="menu-container">
+          
+<div class="block block-system block-menu block-odd first block s-container  black block-id-147" id="block-147" data-bid="147">
+        <ul class="menu"><li class="first leaf philosophy mid-510"><a href="/content/philosophy">Philosophy</a></li>
+<li class="leaf about mid-512"><a href="/content/about">About</a></li>
+<li class="leaf what-we-do mid-399"><a href="/content/what-we-do-1" title="">What We Do</a></li>
+<li class="leaf products-and-solutions mid-514"><a href="/content/products-and-solutions-0" title="">Products And Solutions</a></li>
+<li class="leaf partners mid-856"><a href="/content/partners-1" title="">Partners</a></li>
+<li class="leaf news mid-520"><a href="/news" title="">News</a></li>
+<li class="last leaf career mid-522"><a href="https://career.tamkeentech.sa/" title="" target="_blank">Career</a></li>
+</ul></div><!-- /block -->
+
+
+<div class="block block-locale block-even last block s-container  black block-id-139" id="block-139" data-bid="139">
+        <ul class="language-switcher-locale-url"><li class="ar first"><a href="/ar" class="language-link" xml:lang="ar">العربية</a></li>
+<li class="en last active"><a href="/" class="language-link active" xml:lang="en">English</a></li>
+</ul></div><!-- /block -->
+
+        </div>
+        <div class="close-button">
+          <button class="button open en">Close ×</button>
+          <button class="button open ar">إغلاق ×</button>
+          <button class="button closed en">More +</button>
+          <button class="button closed ar">المزيد +</button>
+        </div>
+    </div>
+  </header><!-- /header -->
+
+<div class="notifications"></div>
+
+
+  <!-- ______________________ MAIN _______________________ -->
+  <div id="main">
+    <div class="container">
+
+
+                          <div class="title"><h1>Home Page</h1></div>
+            
+        
+
+
+        <div id="content-area">
+
+            
+              
+<article class="node node-home-page node-promoted node-odd" data-nid="1000" >
+
+      <header>
+                  <span property="dc:title" content="Home Page" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+  <div class="content">
+    
+<div class="paragraphs-items paragraphs-items-field-page-introduction paragraphs-items-field-page-introduction-full paragraphs-items-full">
+  <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-page-introduction field-type-paragraphs field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><section class="s-container t-hero s-readme__hero fadeWhite" id="home-section">
+  <div class="t-waypoint t-waypoint--below">
+    <div class="t-section-heading ">
+
+    	<h1><!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-introduction field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><h1>We’re <strong>on to the next</strong></h1>
+<h3>Our nation is in constant progress, and so are we!</h3>
+</div>
+      </div>
+</div>
+</h1>
+
+        
+      
+    </div>
+  </div>
+
+  <svg viewBox="0 0 15 23" class="c-arrow--down"><path d="M6.693 20.077V0h1.553v20.137l5.656-5.507L15 15.7 7.5 23 0 15.7l1.098-1.069z"></path></svg>
+</section></div>
+      </div>
+</div>
+</div>
+  </div><!-- /content -->
+
+  
+      <div class="links">
+          </div><!-- /links -->
+  
+  </article><!-- /node -->
+
+              <div class="block block-intro">
+                    
+<div class="block block-views block-odd first last block s-container  black block-id-180" id="block-180" data-bid="180">
+        <h3 class="title">Who We Are</h3>
+      <div class="view view-who-we-are view-id-who_we_are view-display-id-block t-waypoints t-waypoint--belows view-dom-id-2fefef2af5ae2ca153b1aa4efccbd0d8">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-title-field">        <div class="field-content"><h5>About</h5></div>  </div>  
+  <div class="views-field views-field-field-page-introduction">        <div class="field-content">
+  
+    
+
+    	<h1>
+
+    
+          <h2>We are a Saudi technology company that is committed to national innovation, by partnering with the public sector; we build self-sustainable digital solutions that delight the nation and supports it with achieving its goals.</h2>
+<h2>We are on to the next, are you? </h2>
+
+      
+
+</h1>
+
+        
+      
+    
+  
+
+  
+</div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/content/about">Discover more</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div><!-- /block -->
+
+                    <svg viewBox="0 0 15 23" class="c-arrow--down c-arrow--down--inside"><path d="M6.693 20.077V0h1.553v20.137l5.656-5.507L15 15.7 7.5 23 0 15.7l1.098-1.069z"></path></svg>
+              </div>
+
+
+        </div>
+        <div class="home-info">
+            
+<div class="block block-views block-odd first block s-container  black block-id-159" id="block-159" data-bid="159">
+        <h3 class="title">How We Do It</h3>
+      <div class="view view-how-we-do-it view-id-how_we_do_it view-display-id-block t-waypoints t-waypoint--belows view-dom-id-3b40f9d71112dff5dee335f6386fe9b0">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-title-field">        <div class="field-content"><h5>How do we do it?</h5></div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><h3>Starting as a semi-governmental entity with leadership and vision of disruptive visionaries, Tamkeen Technologies understood that the way forward to realize the vision in this sector requires a different and innovative approach.</h3>
+</div>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><a href="/content/what-we-do-1">Discover more</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div><!-- /block -->
+
+
+<div class="block block-views block-even last block s-container  black block-id-189" id="block-189" data-bid="189">
+        <h3 class="title">How We Do It - Model</h3>
+      <div class="view view-how-we-do-it view-id-how_we_do_it view-display-id-block_1 t-waypoints t-waypoint--belows view-dom-id-521216f9420944e42fac5145b8290b36">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-model-introduction">        <div class="field-content"><h2>Digital Transformation via a new and sustainable government service delivery model</h2></div>  </div>  
+  <div class="views-field views-field-field-formula">        <div class="field-content">
+<div class="entity entity-paragraphs-item paragraphs-item-model-items" about="" typeof="">
+  <div class="content">
+    <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-model-icon field-type-image field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><img typeof="foaf:Image" src="https://tamkeentech.sa/sites/default/files/free-standard_0_0.svg" width="118" height="118" alt="" /></div>
+      </div>
+</div>
+<h4>
+              Free Standard Service      </h4>
+  </div>
+</div>
+
+<div class="entity entity-paragraphs-item paragraphs-item-model-items" about="" typeof="">
+  <div class="content">
+    <h4>
+              +      </h4>
+  </div>
+</div>
+
+<div class="entity entity-paragraphs-item paragraphs-item-model-items" about="" typeof="">
+  <div class="content">
+    <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-model-icon field-type-image field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><img typeof="foaf:Image" src="https://tamkeentech.sa/sites/default/files/value_0_0.svg" width="178" height="106" alt="" /></div>
+      </div>
+</div>
+<h4>
+              Value Added Service      </h4>
+  </div>
+</div>
+
+<div class="entity entity-paragraphs-item paragraphs-item-model-items" about="" typeof="">
+  <div class="content">
+    <h4>
+              =      </h4>
+  </div>
+</div>
+
+<div class="entity entity-paragraphs-item paragraphs-item-model-items" about="" typeof="">
+  <div class="content">
+    <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-model-icon field-type-image field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><img typeof="foaf:Image" src="https://tamkeentech.sa/sites/default/files/sustainable_0_0.svg" width="49" height="73" alt="" /></div>
+      </div>
+</div>
+<h4>
+              Sustainable Government Service      </h4>
+  </div>
+</div>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div><!-- /block -->
+
+
+            <div class="cases_container" data-rellax-speed="-8" id="cases_container">
+                <div class="recent-cases" id="recent-cases">
+                    <div class="" id="home_recent_cases">
+                        <div class="t-waypoint t-waypoint--below">
+                            <div class="home_recent_cases">
+                              <div class="block-id-55">
+                                    <div class="view view-latest-updates view-id-latest_updates">
+                                       <div class="view-content">
+                                          	  
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-body-decoded">        <div class="field-content"><div class="views-field views-field-title"><span class="field-content"><h2><span class="icon"></span>TWEET</h2></span></div>
+<div class="date"><p>06/17/2020</p></div>
+<div class="case-summary"><p>تم تطوير التطبيق الإلكتروني لنظام المواعيد لتمكين العملاء من حجز مواعيد مسبقة بسهولة دون الحاجة لاستهلاك الوقت بالإصطفاف
+
+لطلب المنتج يرجى زيارة:
+  
+
+أو التواصل على: 920023600
+
+#وطن_مايوقف
+#تمكين_الإدارة 
+#مستعدون_للقادم
+#كلنا_مسؤول  <br/></p></div>
+<div class="case-hashtags"><p>وطن_مايوقف,تمكين_الإدارة,مستعدون_للقادم,كلنا_مسؤول</p></div></div>  </div>  
+  <div class="views-field views-field-nid">        <span class="field-content"><div class="general_info">
+<div class="row"><div class="label"><h6>Likes</h6></div><div class="info"><p><p>1</p>
+</p></div></div>
+<div class="row"><div class="label"><h6>Retweets</h6></div><div class="info"><p><p>0</p>
+</p></div></div>
+</div>
+
+<div class="views-field views-field-view-node"> <span class="field-content"><a class="en" href="https://twitter.com/TamkeenTech/status/1273261913586229251" target="_blank" >Check Tweet</a><a class="ar" href="https://twitter.com/TamkeenTech/status/1273261913586229251" target="_blank" >المزيد</a></span>  </div></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-body-decoded">        <div class="field-content"><div class="views-field views-field-title"><span class="field-content"><h2><span class="icon"></span>TWEET</h2></span></div>
+<div class="date"><p>06/16/2020</p></div>
+<div class="case-summary"><p>إستفد من مبادرتنا الوطنية المجانية #وطن_مايوقف قبل تاريخ 26-10-1441هـ واعتمد منصة مشاركة الملفات لمشاركة وتبادل البيانات وفقا لقوانين الأمن السيبراني
+
+لتحفظ أمن بياناتك، يرجى زيارة الموقع:
+ 
+
+أو الاتصال:920023600
+#تمكين_التعاون
+#العمل_عن_بعد
+#مستعدون_للقادم  <br/></p></div>
+<div class="case-hashtags"><p>وطن_مايوقف,تمكين_التعاون,العمل_عن_بعد,مستعدون_للقادم</p></div></div>  </div>  
+  <div class="views-field views-field-nid">        <span class="field-content"><div class="general_info">
+<div class="row"><div class="label"><h6>Likes</h6></div><div class="info"><p><p>1</p>
+</p></div></div>
+<div class="row"><div class="label"><h6>Retweets</h6></div><div class="info"><p><p>1</p>
+</p></div></div>
+</div>
+
+<div class="views-field views-field-view-node"> <span class="field-content"><a class="en" href="https://twitter.com/TamkeenTech/status/1272877145895972867" target="_blank" >Check Tweet</a><a class="ar" href="https://twitter.com/TamkeenTech/status/1272877145895972867" target="_blank" >المزيد</a></span>  </div></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-field-body-decoded">        <div class="field-content"><div class="views-field views-field-title"><span class="field-content"><h2><span class="icon"></span>TWEET</h2></span></div>
+<div class="date"><p>06/15/2020</p></div>
+<div class="case-summary"><p>يعمل نظام المواعيد على تمكين مقدمي الخدمة من تحديد عدد العملاء المسموح لهم بالتواجد داخل المنشأة ومن الحد من الازدحام خارجها عبر لوحة تحكم
+
+لطلب المنتج يرجى زيارة:
+ 
+
+او التواصل على: 920023600
+
+#وطن_مايوقف
+#تمكين_الإدارة 
+#مستعدون_للقادم 
+#كلنا_مسؤول  <br/></p></div>
+<div class="case-hashtags"><p>وطن_مايوقف,تمكين_الإدارة,مستعدون_للقادم,كلنا_مسؤول</p></div></div>  </div>  
+  <div class="views-field views-field-nid">        <span class="field-content"><div class="general_info">
+<div class="row"><div class="label"><h6>Likes</h6></div><div class="info"><p><p>1</p>
+</p></div></div>
+<div class="row"><div class="label"><h6>Retweets</h6></div><div class="info"><p><p>1</p>
+</p></div></div>
+</div>
+
+<div class="views-field views-field-view-node"> <span class="field-content"><a class="en" href="https://twitter.com/TamkeenTech/status/1272515144095010817" target="_blank" >Check Tweet</a><a class="ar" href="https://twitter.com/TamkeenTech/status/1272515144095010817" target="_blank" >المزيد</a></span>  </div></span>  </div>  </div>
+   
+
+  
+
+ 
+
+
+	     <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-nid-1">        <span class="field-content"><h2>Tamkeen Technologies announces that it will provide its...</h2>
+<div class="date"><p><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2020-04-19T00:00:00+03:00">04/19/2020</span></p></div>
+<!--<div class="case-summary"><p><p>After launching its “Smart Attendance System” &amp; “File Sharing Platform”, Tamkeen Technologies announces the availability of its third remote productivity product, its Correspondence System as...</p></div>-->
+</span>  </div>  
+  <div class="views-field views-field-nid">        <span class="field-content"><div class="views-field views-field-view-node">        <span class="field-content"><a href="/content/tamkeen-technologies-announces-it-will-provide-its-correspondence-system-its-third-product"><span class="en">Check News</span>
+<span class="ar">المزيد</span></a></span>  </div></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field views-field-nid-1">        <span class="field-content"><h2>As part of its national initiative, “A Nation Uninterrupted...</h2>
+<div class="date"><p><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2020-04-05T00:00:00+03:00">04/05/2020</span></p></div>
+<!--<div class="case-summary"><p><p>After launching its “Smart Attendance System,” Tamkeen Technologies announces the launch of its second productivity tool, a locally-hosted Enterprise File-Sharing platform, as part of its “A...</p></div>-->
+</span>  </div>  
+  <div class="views-field views-field-nid">        <span class="field-content"><div class="views-field views-field-view-node">        <span class="field-content"><a href="/content/part-its-national-initiative-%E2%80%9C-nation-uninterrupted%E2%80%9D-tamkeen-technologies-announces-it-will"><span class="en">Check News</span>
+<span class="ar">المزيد</span></a></span>  </div></span>  </div>  </div>
+  
+
+
+                                       </div>
+                                    </div>                                     
+                                        
+                                    </div>
+                                  <div class="block-id-52"> 
+                                      <div class="view view-latest-updates view-id-latest_updates">
+                                        <div class="view-content">
+                                            	  
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-image-link">        <div class="field-content"><img src="https://pbs.twimg.com/media/EauI9V4XQAA5XXy.jpg" /></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-image-link">        <div class="field-content"><img src="https://pbs.twimg.com/media/Eaoq_uWWoAACViI.jpg" /></div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-field-image-link">        <div class="field-content"><img src="https://pbs.twimg.com/media/EajhxpCXQAEyr_7.jpg" /></div>  </div>  </div>
+   
+
+  
+
+ 
+
+
+	     <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-thumbnail-image">        <div class="field-content"><img typeof="foaf:Image" src="https://tamkeentech.sa/sites/default/files/styles/news_slide/public/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-02%20%282%29_0.png?itok=V_TYHdHx" width="1550" height="1033" alt="" /></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-thumbnail-image">        <div class="field-content"><img typeof="foaf:Image" src="https://tamkeentech.sa/sites/default/files/styles/news_slide/public/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-01%20%281%29.png?itok=8YJmqoj-" width="1200" height="800" alt="" /></div>  </div>  </div>
+  
+
+
+
+                                        </div>
+                                      </div>
+                                </div>
+                              </div>
+                      </div>
+                    </div>
+               </div>
+          </div>
+
+        </div>
+        <div class="t-hero-video" > 
+            <div class="t-waypoint t-waypoint--inside">
+              <div id="hero-video" aria-hidden="true">
+                          <video autoplay="" playsinline="" muted="" loop="" id="video-background">
+                            <source src="https://tamkeentech.sa/sites/all/themes/tamkeen/video/Tamkeenvideos-homepage.mp4" type="video/mp4">
+                            <!--<track src="/video/v-homepage.vtt" kind="captions" srclang="en" label="captions">
+                            <track src="/video/v-homepage.vtt" kind="descriptions" srclang="en" label="captions">-->
+                          </video>
+                   </div>
+              </div>
+      </div> 
+
+     
+      
+
+
+    </div>
+  </div><!-- /main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+
+      
+    <footer id="footer" >
+      <div class="container">
+      
+<div class="block block-menu block-odd first block s-container  black block-id-140" id="block-140" data-bid="140">
+        <ul class="menu"><li class="first expanded about mid-524"><a href="/content/about" title="">About</a><ul class="menu"><li class="first leaf the-company mid-525"><a href="/content/about" title="">The company</a></li>
+<li class="last leaf mission-vision mid-526"><a href="/content/about#vision_mission_block" title="">Mission &amp; vision</a></li>
+</ul></li>
+<li class="expanded philosophy mid-528"><a href="/content/philosophy" title="">Philosophy</a><ul class="menu"><li class="first leaf business-model mid-529"><a href="/content/philosophy#list-2" title="">Business Model</a></li>
+<li class="last leaf open-source mid-530"><a href="/content/philosophy#list-1" title="">Open Source</a></li>
+</ul></li>
+<li class="expanded what-we-do mid-531"><a href="/content/what-we-do-1" title="">What We Do</a><ul class="menu"><li class="first last leaf tools mid-532"><a href="/content/what-we-do-1#methods-section" title="">Tools</a></li>
+</ul></li>
+<li class="leaf products-and-solutions mid-533"><a href="/content/products-and-solutions-0" title="">Products And Solutions</a></li>
+<li class="leaf partners mid-855"><a href="/content/partners-1" title="">Partners</a></li>
+<li class="leaf careers mid-539"><a href="https://career.tamkeentech.sa/" title="" target="_blank">Careers</a></li>
+<li class="last leaf contact mid-903"><a href="/content/contact-0" title="">Contact</a></li>
+</ul></div><!-- /block -->
+
+
+<div class="block block-views block-even last block s-container  black block-id-172" id="block-172" data-bid="172">
+        <h3 class="title">Recent Cases</h3>
+      <div class="view view-recent-cases view-id-recent_cases view-display-id-block_3 view-dom-id-dae6168d34b18ab7aeab1bfdc1ce2d02">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title-field">        <div class="field-content"><a href="/content/musaned">Musaned</a></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field views-field-title-field">        <div class="field-content"><a href="/content/ajeer">Ajeer</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div><!-- /block -->
+
+
+      <div class="copyrights">
+          <div class="left_container">
+                              Tamkeen Technologies © 2020
+                          
+          </div>
+          <div class="right_container">
+              <div class="media">
+                                    <div class="sm"><a href="https://twitter.com/TamkeenTech" target="_blank"><img src="https://tamkeentech.sa/sites/all/themes/tamkeen/images/twitter.svg" /></a></div>
+                  <div class="sm"><a href="https://www.youtube.com/channel/UCM53esqJKAPdV1vnOb_uwMg" target="_blank"><img src="https://tamkeentech.sa/sites/all/themes/tamkeen/images/youtube.svg" /></a></div>
+                  <div class="sm"><a href="https://www.instagram.com/tamkeentech/" target="_blank"><img src="https://tamkeentech.sa/sites/all/themes/tamkeen/images/sm-instagram.svg" /></a></div>
+                  <div class="sm"><a href="https://www.linkedin.com/company/tamkeen-technologies/" target="_blank"><img src="https://tamkeentech.sa/sites/all/themes/tamkeen/images/linkedin.svg" /></a></div>
+              </div>
+          </div>
+      </div>
+      </div>
+    </footer>
+
+  
+</div>
+
+
+
+</div>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-134695574-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-134695574-1');
+</script>
+  </body>
+</html>
