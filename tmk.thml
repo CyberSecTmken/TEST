@@ -64,12 +64,12 @@
 <script type="text/javascript" src="https://tamkeentech.sa/sites/all/themes/tamkeen/js/script.js?qbqcdq"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"tamkeen","theme_token":"2d51DRqvOXHJ1cbIAM3CqQG8WWXqqZJIPFLyoJDKqPs","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/basic\/js\/build\/scripts.js":1,"sites\/all\/themes\/basic\/js\/build\/modernizr.js":1,"sites\/all\/themes\/tamkeen\/js\/jquery-1.11.1.min.js":1,"sites\/all\/themes\/tamkeen\/js\/TweenMax.min.js":1,"sites\/all\/themes\/tamkeen\/js\/TweenLite.min.js":1,"sites\/all\/themes\/tamkeen\/js\/jquery.waypoints.min.js":1,"sites\/all\/themes\/tamkeen\/js\/inview.min.js":1,"sites\/all\/themes\/tamkeen\/js\/slick\/slick.js":1,"sites\/all\/themes\/tamkeen\/js\/jquery.scrollify.js":1,"sites\/all\/themes\/tamkeen\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/themes\/basic\/css\/tabs.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"modules\/locale\/locale.css":1,"sites\/all\/themes\/tamkeen\/css\/normalize.css":1,"sites\/all\/themes\/tamkeen\/css\/default.css":1,"sites\/all\/themes\/tamkeen\/css\/layout.css":1,"sites\/all\/themes\/tamkeen\/css\/style.css":1,"sites\/all\/themes\/tamkeen\/js\/slick\/slick.css":1,"sites\/all\/themes\/tamkeen\/js\/slick\/slick-theme.css":1,"sites\/all\/themes\/tamkeen\/css\/print.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"tamkeen","theme_token":"","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/basic\/js\/build\/scripts.js":1,"sites\/all\/themes\/basic\/js\/build\/modernizr.js":1,"sites\/all\/themes\/tamkeen\/js\/jquery-1.11.1.min.js":1,"sites\/all\/themes\/tamkeen\/js\/TweenMax.min.js":1,"sites\/all\/themes\/tamkeen\/js\/TweenLite.min.js":1,"sites\/all\/themes\/tamkeen\/js\/jquery.waypoints.min.js":1,"sites\/all\/themes\/tamkeen\/js\/inview.min.js":1,"sites\/all\/themes\/tamkeen\/js\/slick\/slick.js":1,"sites\/all\/themes\/tamkeen\/js\/jquery.scrollify.js":1,"sites\/all\/themes\/tamkeen\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/themes\/basic\/css\/tabs.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"modules\/locale\/locale.css":1,"sites\/all\/themes\/tamkeen\/css\/normalize.css":1,"sites\/all\/themes\/tamkeen\/css\/default.css":1,"sites\/all\/themes\/tamkeen\/css\/layout.css":1,"sites\/all\/themes\/tamkeen\/css\/style.css":1,"sites\/all\/themes\/tamkeen\/js\/slick\/slick.css":1,"sites\/all\/themes\/tamkeen\/js\/slick\/slick-theme.css":1,"sites\/all\/themes\/tamkeen\/css\/print.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
 //--><!]]>
 </script>
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-  <!--<script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyANhaZ8tFqasYRq1agmehzSlORgNxmcIFs" type="text/javascript"></script>-->
+  <!--<script  src="https://maps.googleapis.com/maps/api/js?key=" type="text/javascript"></script>-->
   <script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAKhHV3dUa1NLzApd_YthTQGa-nQv1Q8Ik" type="text/javascript"></script>
 
 </head>
@@ -196,7 +196,7 @@ HTML comment.
                     
 <div class="block block-views block-odd first last block s-container  black block-id-180" id="block-180" data-bid="180">
         <h3 class="title">Who We Are</h3>
-      <div class="view view-who-we-are view-id-who_we_are view-display-id-block t-waypoints t-waypoint--belows view-dom-id-2fefef2af5ae2ca153b1aa4efccbd0d8">
+      <div class="view view-who-we-are view-id-who_we_are view-display-id-block t-waypoints t-waypoint--belows view-dom-id-">
         
   
   
@@ -244,7 +244,7 @@ HTML comment.
             
 <div class="block block-views block-odd first block s-container  black block-id-159" id="block-159" data-bid="159">
         <h3 class="title">How We Do It</h3>
-      <div class="view view-how-we-do-it view-id-how_we_do_it view-display-id-block t-waypoints t-waypoint--belows view-dom-id-3b40f9d71112dff5dee335f6386fe9b0">
+      <div class="view view-how-we-do-it view-id-how_we_do_it view-display-id-block t-waypoints t-waypoint--belows view-dom-id-">
         
   
   
@@ -267,7 +267,7 @@ HTML comment.
 
 <div class="block block-views block-even last block s-container  black block-id-189" id="block-189" data-bid="189">
         <h3 class="title">How We Do It - Model</h3>
-      <div class="view view-how-we-do-it view-id-how_we_do_it view-display-id-block_1 t-waypoints t-waypoint--belows view-dom-id-521216f9420944e42fac5145b8290b36">
+      <div class="view view-how-we-do-it view-id-how_we_do_it view-display-id-block_1 t-waypoints t-waypoint--belows view-dom-id-">
         
   
   
@@ -546,7 +546,7 @@ HTML comment.
 
 <div class="block block-views block-even last block s-container  black block-id-172" id="block-172" data-bid="172">
         <h3 class="title">Recent Cases</h3>
-      <div class="view view-recent-cases view-id-recent_cases view-display-id-block_3 view-dom-id-dae6168d34b18ab7aeab1bfdc1ce2d02">
+      <div class="view view-recent-cases view-id-recent_cases view-display-id-block_3 view-dom-id-">
         
   
   
@@ -575,7 +575,7 @@ HTML comment.
           <div class="right_container">
               <div class="media">
                                     <div class="sm"><a href="https://twitter.com/TamkeenTech" target="_blank"><img src="https://tamkeentech.sa/sites/all/themes/tamkeen/images/twitter.svg" /></a></div>
-                  <div class="sm"><a href="https://www.youtube.com/channel/UCM53esqJKAPdV1vnOb_uwMg" target="_blank"><img src="https://tamkeentech.sa/sites/all/themes/tamkeen/images/youtube.svg" /></a></div>
+                  <div class="sm"><a href="https://www.youtube.com/channel/" target="_blank"><img src="https://tamkeentech.sa/sites/all/themes/tamkeen/images/youtube.svg" /></a></div>
                   <div class="sm"><a href="https://www.instagram.com/tamkeentech/" target="_blank"><img src="https://tamkeentech.sa/sites/all/themes/tamkeen/images/sm-instagram.svg" /></a></div>
                   <div class="sm"><a href="https://www.linkedin.com/company/tamkeen-technologies/" target="_blank"><img src="https://tamkeentech.sa/sites/all/themes/tamkeen/images/linkedin.svg" /></a></div>
               </div>
