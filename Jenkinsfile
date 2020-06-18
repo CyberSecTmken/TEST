@@ -21,8 +21,7 @@ pipeline {
             steps {
                sh "rm owaspchecker.sh"
                sh "wget 'https://raw.githubusercontent.com/CyberSecTmken/TEST/master/owaspchecker.sh'"
-               sh 'chmod -x owaspchecker.sh'
-               sh 'bash owaspchecker.sh'
+               sh 'sudo bash owaspchecker.sh'
             }
         }  
    
